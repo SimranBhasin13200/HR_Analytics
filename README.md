@@ -94,11 +94,10 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 ```
 HR-Analytics-Dashboard/
 │
+├── README.md
 ├── HR_Analytics.pbix
 ├── Dashboard_Screenshots/
-│   └── Screenshot 2026-06-02 163611.png
-├── Dataset/
-└── README.md
+│       └── hr_dashboard.png
 ```
 
 ---
