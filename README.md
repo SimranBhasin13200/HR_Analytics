@@ -53,7 +53,7 @@ The dashboard tracks:
 - Highlights roles with the highest employee turnover
 
 ### 4. Job Satisfaction Analysis
-- Pivot Table visualization
+- Matrix Visualization
 - Compares job satisfaction levels across different job roles
 
 ### 5. Attrition by Gender
@@ -72,12 +72,11 @@ The dashboard tracks:
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+### HR Analytics Dashboard
 
-```text
-Dashboard Screenshot 1
-Dashboard Screenshot 2
-```
+![HR Analytics Dashboard](Dashboard_Screenshots/Screenshot%202026-06-02%20163611.png)
+
+This dashboard provides a comprehensive overview of employee attrition, workforce demographics, job satisfaction, and retention trends through interactive Power BI visualizations.
 
 ---
 
@@ -103,11 +102,12 @@ Dashboard Screenshot 2
 
 ## 📂 Repository Structure
 
-```
+```text
 HR-Analytics-Dashboard/
 │
 ├── HR_Analytics.pbix
 ├── Dashboard_Screenshots/
+│   └── Screenshot 2026-06-02 163611.png
 ├── Dataset/
 └── README.md
 ```
@@ -118,16 +118,28 @@ HR-Analytics-Dashboard/
 
 ### Simran Bhasin
 
-Aspiring Data Analyst | SQL • Python • Power BI • Excel
+**Aspiring Data Analyst**
 
-📧 Email: simransharma5699382@gmail.com
+**Skills:** SQL • Python • Power BI • Excel
 
-💼 LinkedIn: https://www.linkedin.com/in/simranbhasinanalytics1320
+📧 Email: SimranBhasin1320@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/SimranBhasin1320
 
 📷 Instagram: https://www.instagram.com/itzz.simran._
+
+🐙 GitHub: https://github.com/SimranBhasin1320
 
 ---
 
 ## ⭐ Project Goal
 
 Transform HR data into actionable insights that help organizations improve employee retention, workforce planning, and overall business performance.
+
+---
+
+## 🤝 Connect With Me
+
+If you found this project helpful or have suggestions for improvement, feel free to connect with me on LinkedIn or follow my journey in Data Analytics.
+
+⭐ Don't forget to star this repository if you found it useful!
