@@ -108,7 +108,7 @@ HR_Analytics/
 
 Aspiring Data Analyst | SQL • Python • Power BI • Excel
 
-📧 Email: simransharma5699382@gmail.com  
+📧 Email: simranbhasin310@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/simranbhasin1320  
 📷 Instagram: https://www.instagram.com/itzz.simran._  
 🐙 GitHub: https://github.com/SimranBhasin1320  
