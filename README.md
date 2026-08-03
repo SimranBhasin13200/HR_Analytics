@@ -110,7 +110,6 @@ Aspiring Data Analyst | SQL • Python • Power BI • Excel
 
 📧 Email: simranbhasin310@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/simranbhasin310  
-📷 Instagram: https://www.instagram.com/itzz.simran._  
 🐙 GitHub: https://github.com/simranbhasin310  
 
 ---
